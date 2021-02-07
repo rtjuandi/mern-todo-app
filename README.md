@@ -4,6 +4,8 @@ Created a simple todo app using the MERN stack (MongoDB, Express, ReactJS, Node.
 
 ## To Run on local machine
 
+clone repository
+
 Run MongoDB on terminal
 ```
 > mongod
@@ -15,7 +17,7 @@ Create a mongodb database
 > use todos
 ```
 
-Run nodemon in backend folder
+Run nodemon in backend folder to start server
 ```
 > cd backend
 > nodemon server
